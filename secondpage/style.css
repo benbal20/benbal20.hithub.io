@@ -1,0 +1,61 @@
+h1 {
+	border: 20px solid;
+	border-radius: 30px;
+	background-color: black;
+	padding: 50px;
+	margin: 40px;
+	color: darkgoldenrod;
+
+}
+
+img {
+	font-size: 20px;
+}
+
+ol {
+	font-size: 50px;
+	border: 20px;
+	background-color: darkred;
+	padding-top: 30px;
+	margin: 35px;
+	color: blueviolet;
+}
+
+li {
+	font-size: 35px;
+	border: 10px solid;
+	background-color: green;
+    padding: 30px;
+    margin: 35px;
+    color: black;
+
+
+}
+a {
+	font-size: 40px;
+	margin: 20px;
+	padding: 20px;
+	background-color: black;
+	text-align: left;
+	border-radius: 20px;
+	border: 20px;
+}
+
+body {
+	background-color: darkgreen;
+}
+
+h2 {
+	border: 20px inherit;
+	border-radius: 2px;
+	text-align: left;
+	background-color: burlywood;
+    padding: 100px inherit;
+    font-size: 30px;
+    margin: 25px;
+
+
+
+
+
+
